@@ -2,7 +2,7 @@
 
 **An applied-intelligence and software engineering company, founded in 2024 in Minneapolis, Minnesota, by Aladdin Hamed.**
 
-Registered as Saffron Group LLC; the company name is Saffron. Home: [saffronsystems.io](https://saffronsystems.io).
+Home: [saffronsystems.io](https://saffronsystems.io).
 
 > Every autonomous action leaves a verifiable receipt.
 
